@@ -1,18 +1,19 @@
 { 
   { 
-   "v1":1,
+   "v1":14,
    "v2":0,
    "v3":"
-   \nUpdated to Version 10.19.0-release.0
-   \nExclusive Unlocked Premium Features
-   \nExclusive Download Media
-   \nExclusive You can play videos in the background
-   \nExclusive You can undo tweeting and specify duration of the undo
-   \nExclusive Ads Free
-   \nAdded Communities Feature
-   \nAdded Option to Change App icon
-   \nAdded Option to hide/show the bottom bar partitions
-   \nAdded option to prevent videos from playing automatically on main screen
+   \nUpdated to Version 10.36.0-release.0
+    \nNow You can open links directly Without t.co
+   \nAdded Option to Return Old UI Without For You - Following
+   \nAdded Option to Enable Undo Posts
+   \nAdded Option to Open Undo Posts Settings
+   \nAdded Option to Enable Change App Icon and Navigation buttons in Main Screen
+   \nAdded Option to Open App Style Options
+   \nAdded Section to control Ads with 13 Option to Disable Ads
+   \nAdded Option to Disable Follow Developer Dialog
+   \nAdded Settings Plus Section in Twitter Settings
+   \nImprovment Plus Settings
    \nFixed Background options for main screen
    \nFixed others and Improvment",
    "website":"https://www.ga-mods.com/2021/12/twitter-plus.html"
