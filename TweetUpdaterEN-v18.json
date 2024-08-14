@@ -3,17 +3,13 @@
    "v1":17,
    "v2":0,
    "v3":"
-   \nUpdated to Version 10.19.0-release.0
-   \nExclusive Unlocked Premium Features
-   \nExclusive Download Media
-   \nExclusive You can play videos in the background
-   \nExclusive You can undo tweeting and specify duration of the undo
-   \nExclusive Ads Free
-   \nAdded Communities Feature
-   \nAdded Option to Change App icon
-   \nAdded Option to hide/show the bottom bar partitions
-   \nAdded option to prevent videos from playing automatically on main screen
-   \nFixed Background options for main screen
+   \nUpdated to Version 10.53.2-release.0
+   \nAdded an option to hide mention notifications
+   \nAdded an option to change the color of the top bar in tweets
+   \nAdded an option to change the color of the bottom bar in tweets
+   \nAdded an option to change the color of the top bar in the private message section
+   \nAdded an option to change the color of the bottom bar in the private message section
+   \nFixed crashes on some devices
    \nFixed others and Improvment",
    "website":"https://www.ga-mods.com/2021/12/twitter-plus.html"
 }
