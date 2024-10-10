@@ -1,15 +1,6 @@
-{ 
-  { 
-   "v1":17,
-   "v2":0,
-   "v3":"
-   \nUpdated to Version 10.53.2-release.0
-   \nAdded an option to hide mention notifications
-   \nAdded an option to change the color of the top bar in tweets
-   \nAdded an option to change the color of the bottom bar in tweets
-   \nAdded an option to change the color of the top bar in the private message section
-   \nAdded an option to change the color of the bottom bar in the private message section
-   \nFixed crashes on some devices
-   \nFixed others and Improvment",
-   "website":"https://www.ga-mods.com/2021/12/twitter-plus.html"
+{
+  "v1": 18,
+  "v2": 0,
+  "v3": "\r\n   \n* Updated to Version 10.61.1-release.0\n* Develop option 2.8 to change Main screen where you can choose a section for You, follow, or both\n* Added option 2.10 to Hides follow/subscribe/follow back buttons on posts\n* Added Option 4.15 to Keep video playing when you close the app\n* Added option 4.16 to change App icon to many distinctive icons\n* Added Option 4.17 to Get rid of t.co short urls\n* Added option 4.18 to enable video auto scroll in immersive view\n* Added option 4.19 to Play Videos in highest quality always\n* Added Option 6.13 to Removes premium upsell in home timeline\n* Added Option 6.14 to Remove Main event (Explore)\n* Added Option 6.15 to Remove Superhero event (Explore)\n* Added Option 6.16 to Remove videos for you in (Explore)\n* Added Option 6.17 to Remove Message prompts\n* Remove Developer massage dialog in Main Screen\n* Fixed Change theme icon not showing in sidebar\n* Fixed crashes when clicking default mode option\n* Fixed crashes on some devices\n* Fixed others and Improvment",
+  "website": "https://www.2022tech.com/twitter-plus/"
 }
