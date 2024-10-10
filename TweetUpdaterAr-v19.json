@@ -1,0 +1,15 @@
+{ 
+  { 
+   "v1":17,
+   "v2":0,
+   "v3":"
+   \nUpdated to Version 10.53.2-release.0
+   \nAdded an option to hide mention notifications
+   \nAdded an option to change the color of the top bar in tweets
+   \nAdded an option to change the color of the bottom bar in tweets
+   \nAdded an option to change the color of the top bar in the private message section
+   \nAdded an option to change the color of the bottom bar in the private message section
+   \nFixed crashes on some devices
+   \nFixed others and Improvment",
+   "website":"https://www.ga-mods.com/2021/12/twitter-plus.html"
+}
