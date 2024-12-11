@@ -1,0 +1,6 @@
+{
+  "v1": 20,
+  "v2": 0,
+  "v3": "* Updated to Version 10.70.0-release.0\n* Added Option 2.3.7 to hide settings tabs in home timeline\n* Added Option 2.3.8 to keep for you tabs on\n* Added Option 2.3.9 to disable always refresh\n* Added Option 2.3.10 to hide navigation bar items\n* Added Option 2.5.3 to to hide reply sorting\n* Added Option 2.6.4 to hide explore tabs\n* Added Option 2.7.7 to hide edit tweet option\n* Added Option 2.7.8 to hide tweets items\n* Added Option 2.8.5 to hide side bar items\n* Added Option 2.8.6 to show content ownership statement option in Sidebar\n* Added Option 2.10.1 to hide community icon from main screen\n* Added Option 2.10.2 to Hide post sorting from community screen\n* Added Option 2.10.3 to hide Home and Explore from Communities screen\n* Added Option 2.10.4 to hide Create Community icon from communities\n* Added Option 2.10.5 to hide search icon in communities screen\n* Added Option 3.10 to hide pin chat option\n* Added Option 3.11 to enable create secret conversations\n* Added Option 5.4 to lock bookmarks\n* Fixed floating button not opening when pressed\n* Fixed post not being translated in tweets\n* Fixed sudden crashes in some\n* Fixed others and Improvment",
+  "website": "https://alabidimods.com/twitter-plus/"
+}
