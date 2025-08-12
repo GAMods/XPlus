@@ -1,0 +1,6 @@
+{
+  "v1": 25,
+  "v2": 0,
+  "v3": "\n* Update to version 11.10.0-release.0\n* Added option to enable/disable media download\n* Added option to restore scroll position when returning to timeline\n* Added option to stop auto-loading tweets\n* Added option to show media tab on home screen\n* Added option to hide XChat tab from sidebar\n* Added option to lock bookmarks\n* Added option to clear cache files\n* Added option to change font style (normal, bold, italic...)\n* Added option to open Plus settings via long press on floating button\n* Added option to disable message reactions\n* Added option to disable store updates\n* Added option to change profile background color\n* Added option to change media icons color when posting\n* Added option to change reactions background color\n* New settings interface design\n* New styles for the add-ons and features section\n* New options design\n* Increased image quality to 100%\n* 4K video support\n* Network restrictions bypass\n* Fixed opening links via external browser option\n* Fixed main interface customization option\n* Fixed navigation tabs show/hide control\n* Bug fixes and improvements",
+  "website": "https://alabidimods.com/twitter-plus/"
+}
