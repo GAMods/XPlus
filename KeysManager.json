@@ -418,5 +418,11 @@
     "key": "key5708e3cd",
     "expiresAt": "2025-08-16",
     "allowOffline": true
+  },
+  {
+    "id": "a484c935f8f91f5f",
+    "key": "keya484c935",
+    "expiresAt": "2025-08-17",
+    "allowOffline": true
   }
 ]
