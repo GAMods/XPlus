@@ -542,7 +542,7 @@
   {
     "id": "77987bf7e48ee293",
     "key": "key1115",
-    "expiresAt": "2025-08-24",
+    "expiresAt": "2025-08-25",
     "allowOffline": true
   },
   {
@@ -591,6 +591,12 @@
     "id": "cce7695f79c2ea58",
     "key": "keycce7695f",
     "expiresAt": "2025-08-23",
+    "allowOffline": true
+  },
+  {
+    "id": "5366353ec6f1c81c",
+    "key": "key5366353e",
+    "expiresAt": "2025-08-25",
     "allowOffline": true
   }
 ]
