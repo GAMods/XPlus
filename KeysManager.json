@@ -2,7 +2,7 @@
   {
     "id": "20e6765f65ffcc42",
     "key": "key11",
-    "expiresAt": "2025-11-30",
+    "expiresAt": "2026-08-30",
     "allowOffline": true
   },
   {
@@ -939,6 +939,24 @@
     "id": "a92a7b0bbf6f7051",
     "key": "keya92a7b0b",
     "expiresAt": "2025-10-02",
+    "allowOffline": true
+  },
+  {
+    "id": "df2eea82a63bf5a2",
+    "key": "keydf2eea82",
+    "expiresAt": "2025-10-11",
+    "allowOffline": true
+  },
+  {
+    "id": "a60c95f90d0a219d",
+    "key": "keya60c95f9",
+    "expiresAt": "2025-10-11",
+    "allowOffline": true
+  },
+  {
+    "id": "7440828df092106d",
+    "key": "key7440828d",
+    "expiresAt": "2025-10-11",
     "allowOffline": true
   }
 ]
