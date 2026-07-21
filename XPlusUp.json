@@ -1,6 +1,6 @@
 {
-  "versionCode": "311951000",
-  "versionName": "11.95.1-release-ripped.0",
+  "versionCode": "312071000",
+  "versionName": "12.7.1-release.0",
   "downloadLink": "https://t.me/x_plus_update",
   "forceUpdate": false,
   "Title": "تحديث Twitter Plus v34 جاهز 🚀",
@@ -18,7 +18,7 @@
     "إصلاح خيار إخفاء Grok وإعدادات الخلفية ومشكلة رمز المرور في الرسائل الخاصة",
     "تحسينات عامة في الأداء والسرعة واستجابة الواجهة"
   ],
-  "updateSize": "200.50M",
+  "updateSize": "159.52M",
   "releaseDate": "2026-07-22",
   "priority": "high"
 }
